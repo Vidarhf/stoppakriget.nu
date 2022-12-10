@@ -21,13 +21,14 @@ p {
 }
 
 div.container {
-text-align: center;
+    text-align: center;
 }
 
-ul.myUl{
-display: inline-block;
-text-align: left;
+ul.myUl {
+    display: inline-block;
+    text-align: left;
 }
+
 li {
     font-size: large;
     padding: 6px;
